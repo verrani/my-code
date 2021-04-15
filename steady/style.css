@@ -1,0 +1,19 @@
+.red {
+	width: 400px;
+	height: 200px;
+	background-color: red;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50%;
+	margin-bottom: 50%;
+}
+
+.green {
+	width: 140px;
+	height: 80px;
+	background-color: green;
+	margin-left:54.5%;
+	margin-right:44.5%;
+	margin-top:-747px;
+	margin-bottom: 750px;
+}
